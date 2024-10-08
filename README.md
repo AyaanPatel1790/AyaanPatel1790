@@ -1,4 +1,7 @@
-## Hi there 👋
+## Hi there, I'm Ayaan Patel 👋. 
+## - 😄 Pronouns: He/Him
+## 🌱 I’m learning Computer Science and Econ at Northeastern University.
+
 
 <!--
 **AyaanPatel1790/AyaanPatel1790** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
