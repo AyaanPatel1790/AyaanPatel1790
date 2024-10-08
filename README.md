@@ -1,6 +1,6 @@
 ## Hi there, I'm Ayaan Patel 👋. 
 ## - 😄 Pronouns: He/Him
-## 🌱 I’m learning Computer Science and Econ at Northeastern University.
+## 🌱 I’m learning Computer Science and Economics at Northeastern University.
 
 
 <!--
